@@ -1,0 +1,7 @@
+This is a first version of a BASIC reader for the data that we collected 
+in LPC that just uses 1 detector. This would not work for the full faster 
+files in n2EDM.
+
+It requires faster libraries to be installed and ROOT. 
+
+It pipes the faster files into a ROOT structure
